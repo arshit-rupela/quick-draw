@@ -1,0 +1,32 @@
+
+body{
+    background-color: pink;
+}
+h1{
+    background-color: cornsilk;
+    color: rgb(38,0,255);
+    font-family: 'Oswald', sans-serif;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    text-decoration-style: wavy;
+    font-size: 25px;
+    color: black;
+}
+#sketch_to_be_drawn{
+    font-size: 25px;
+    color: red;
+}
+
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+}
